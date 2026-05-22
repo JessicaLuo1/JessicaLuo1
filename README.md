@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Jessica, and I'm a rising senior in high school. 
 
 <!--
 **JessicaLuo1/JessicaLuo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
